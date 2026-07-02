@@ -1,0 +1,28 @@
+{
+  "name": "Assistant Tenneville",
+  "short_name": "Tenneville",
+  "description": "Assistant communal IA de la Commune de Tenneville",
+  "start_url": "/NDBot/",
+  "scope": "/NDBot/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a5714",
+  "background_color": "#1a5714",
+  "lang": "fr-BE",
+  "icons": [
+    {
+      "src": "/NDBot/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/NDBot/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "utilities"],
+  "prefer_related_applications": false
+}
